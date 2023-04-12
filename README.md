@@ -8,5 +8,6 @@
 - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
 - [system.css](https://github.com/sakofchit/system.css): A CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991. 
+- [pixelCSS](https://github.com/gwannon/pixelCSS): pixelCSS is a css library that allows you to create PixelArt with CSS3. 
 
 Feel free to PR this repo with more repos!
