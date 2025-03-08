@@ -7,6 +7,8 @@
 - [7.css](https://github.com/khang-nd/7.css): A tiny CSS framework that takes semantic HTML and styles them to the Windows 7 design
 - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
-- [system.css](https://github.com/sakofchit/system.css): A CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991. 
+- [RPGUI](https://github.com/RonenNess/RPGUI): Lightweight web framework inspired by old-school RPG GUIs.
+- [system.css](https://github.com/sakofchit/system.css): A CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991.
+- [Terminal.css](https://github.com/Gioni06/terminal.css): Modern and minimalistic CSS framework for terminal enthusiasts.
 
 Feel free to PR this repo with more repos!
