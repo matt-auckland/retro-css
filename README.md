@@ -9,5 +9,6 @@
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
 - [system.css](https://github.com/sakofchit/system.css): A CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991. 
 - [TheSims.css](https://github.com/inbn/TheSims.css): A “Design System” based on the 2000 life simulation game, The Sims.
+- [Classicy](https://github.com/robbiebyrd/classicy): A UI framework using native CSS/JS replications of the Mac OS 8 interface components.
 
 Feel free to PR this repo with more repos!
