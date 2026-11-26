@@ -8,6 +8,7 @@
 - [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386): A vintage 1980s DOS inspired Twitter Bootstrap theme
 - [New Dawn](https://github.com/npjg/new-dawn): A mac classic After Dark inspired stylesheet.
 - [system.css](https://github.com/sakofchit/system.css): A CSS library for building interfaces that resemble Apple's System OS which ran from 1984-1991. 
+- [clio.css](https://github.com/surfine/clio.css): Classic Mac OS (System 6, System 7, Mac OS 8.5 Drawing Board, Mac OS 9 Platinum) and NeXTSTEP 3.3 in CSS, every value measured in an emulator and traced in an evidence table.
 - [TheSims.css](https://github.com/inbn/TheSims.css): A “Design System” based on the 2000 life simulation game, The Sims.
 
 Feel free to PR this repo with more repos!
